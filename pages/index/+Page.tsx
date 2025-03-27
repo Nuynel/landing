@@ -1,3 +1,3 @@
-import {HeroPage} from "../../src/pages/hero";
+import {HeroPage} from "../../src/pages/main";
 
 export {HeroPage as Page}
