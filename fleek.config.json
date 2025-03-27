@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "steep-gas-hollow",
+      "distDir": "dist/client",
+      "buildCommand": "pnpm run build"
+    }
+  ]
+}
