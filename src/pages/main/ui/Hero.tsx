@@ -10,7 +10,6 @@ const Hero = () => {
         <img src={portrait} alt="Alisa Kislova" loading='lazy' className="size-40 md:size-64 print:size-64"/>
         <ul className="space-y-1 text-sm flex flex-col justify-center">
           <li>📍 Montenegro ={'>'} Spain</li>
-          <li>📞 +7 (911) 029-3933</li>
           <li>📧 <a href="mailto:snezhinka.alisa@gmail.com" className="underline hover:opacity-70 transition-all duration-300">snezhinka.alisa@gmail.com</a></li>
           <li>🔗 <a href="https://linkedin.com/in/alisa-kislova-2533b023b" target="_blank" className="underline hover:opacity-70 transition-all duration-300">linkedin.com/in/alisa-kislova-2533b023b</a></li>
           <li>📌 Telegram: <a href="https://t.me/nuynel" target="_blank" className="underline hover:opacity-70 transition-all duration-300">@nuynel</a></li>
